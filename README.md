@@ -81,6 +81,6 @@ This step is necessary when a router with DHCP is unavailable.
 
 ## Acknowledgement
 
-This document is a collaborative effort with two IBMers and co-authors, Kene Nwankwo and James Appleyard, who have been instrumental to resolving many technical issues during the project.
+This document is a collaborative effort with two IBMers and co-authors, Kene Nwankwo and James Appleyard, who have been instrumental in resolving many technical issues during the project.
 
 
